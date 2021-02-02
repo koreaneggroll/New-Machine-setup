@@ -8,7 +8,7 @@ sudo apt install vim
 sudo apt install vlc
 sudo apt install steam
 sudo apt install notepadqq
-sudo apt install simplenote
+sudo snap install simplenote
 sudo snap install skype
 sudo snap install spotify
 sudo apt install obs-studio
