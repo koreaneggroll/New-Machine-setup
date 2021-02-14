@@ -15,4 +15,4 @@ sudo apt install obs-studio
 sudo apt install discord
 sudo snap install --classic code
 sudo snap install atom
-
+sudo apt install codeblocks
